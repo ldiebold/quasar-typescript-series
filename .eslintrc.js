@@ -72,6 +72,7 @@ module.exports = {
     'one-var': 'off',
     'no-void': 'off',
     'multiline-ternary': 'off',
+    'func-call-spacing': 'off',
 
     'import/first': 'off',
     'import/namespace': 'error',
